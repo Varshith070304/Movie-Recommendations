@@ -1,2 +1,2 @@
 # Movie-Recommendations
-ML Model for classifying iris flowers based on their features using Python, scikit-learn, and TensorFlow.
+A movie recommendation system using collaborative filtering and machine learning techniques in Python.
